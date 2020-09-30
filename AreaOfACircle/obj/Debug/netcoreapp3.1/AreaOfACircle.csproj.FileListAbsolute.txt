@@ -1,0 +1,13 @@
+C:\Users\kyle\Desktop\Launch\Unit2\studios\AreaOfACircle\AreaOfACircle\bin\Debug\netcoreapp3.1\AreaOfACircle.exe
+C:\Users\kyle\Desktop\Launch\Unit2\studios\AreaOfACircle\AreaOfACircle\bin\Debug\netcoreapp3.1\AreaOfACircle.deps.json
+C:\Users\kyle\Desktop\Launch\Unit2\studios\AreaOfACircle\AreaOfACircle\bin\Debug\netcoreapp3.1\AreaOfACircle.runtimeconfig.json
+C:\Users\kyle\Desktop\Launch\Unit2\studios\AreaOfACircle\AreaOfACircle\bin\Debug\netcoreapp3.1\AreaOfACircle.runtimeconfig.dev.json
+C:\Users\kyle\Desktop\Launch\Unit2\studios\AreaOfACircle\AreaOfACircle\bin\Debug\netcoreapp3.1\AreaOfACircle.dll
+C:\Users\kyle\Desktop\Launch\Unit2\studios\AreaOfACircle\AreaOfACircle\bin\Debug\netcoreapp3.1\AreaOfACircle.pdb
+C:\Users\kyle\Desktop\Launch\Unit2\studios\AreaOfACircle\AreaOfACircle\obj\Debug\netcoreapp3.1\AreaOfACircle.csprojAssemblyReference.cache
+C:\Users\kyle\Desktop\Launch\Unit2\studios\AreaOfACircle\AreaOfACircle\obj\Debug\netcoreapp3.1\AreaOfACircle.AssemblyInfoInputs.cache
+C:\Users\kyle\Desktop\Launch\Unit2\studios\AreaOfACircle\AreaOfACircle\obj\Debug\netcoreapp3.1\AreaOfACircle.AssemblyInfo.cs
+C:\Users\kyle\Desktop\Launch\Unit2\studios\AreaOfACircle\AreaOfACircle\obj\Debug\netcoreapp3.1\AreaOfACircle.csproj.CoreCompileInputs.cache
+C:\Users\kyle\Desktop\Launch\Unit2\studios\AreaOfACircle\AreaOfACircle\obj\Debug\netcoreapp3.1\AreaOfACircle.dll
+C:\Users\kyle\Desktop\Launch\Unit2\studios\AreaOfACircle\AreaOfACircle\obj\Debug\netcoreapp3.1\AreaOfACircle.pdb
+C:\Users\kyle\Desktop\Launch\Unit2\studios\AreaOfACircle\AreaOfACircle\obj\Debug\netcoreapp3.1\AreaOfACircle.genruntimeconfig.cache
