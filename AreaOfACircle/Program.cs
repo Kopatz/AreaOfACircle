@@ -7,8 +7,13 @@ namespace AreaOfACircle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the radius of your circle:");
-            double radius = double.Parse(Console.ReadLine());
+            double radius = 0;
+            do
+            {
+                Console.WriteLine("Enter the radius of your circle:");
+                radius = double.Parse(Console.ReadLine());
+            } while (radius <= 0);
+            
             double area = Math.PI * Math.Pow(radius, 2.0);
             double circumference = 2 * Math.PI * radius;
             double diameter = 2 * radius;
